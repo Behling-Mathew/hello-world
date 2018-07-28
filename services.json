@@ -1,0 +1,20 @@
+{
+  "service": [
+    {
+      "name": "basic",
+      "cost": "$25"
+    },
+    {
+      "name": "premium",
+      "cost": "$35"
+    },
+    {
+      "name": "brakes",
+      "cost": "$40"
+    },
+    {
+      "name": "drivetrain",
+      "cost": "$60"
+    }
+  ]
+}
